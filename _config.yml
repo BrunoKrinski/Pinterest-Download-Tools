@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+title: Pinterest Download Tool
+description: A set of python scripts to download pinterest images
+show_downloads: "true"
