@@ -1,3 +1,27 @@
 ---
 layout: default
 ---
+<h1>Download:</h1>
+<p>git clone https://github.com/BrunoKrinski/pinterest_download_tools.git</p>
+<h3>Installation:</h3>
+<h2>Step 1:</h2>
+<p>pip install -r requirements.txt</p>
+<h2>Step 2:</h2>
+<p>Install the Firefox.</p>
+<p>Download <a href="https://github.com/mozilla/geckodriver/releases">Geckodriver</a> and put on your system path.</p>
+<h1>Usage:</h1>
+<h2>Images Downloader:</h2>
+<p>python download_pinterest_images.py --email your_email@gmail.com --passwd your_password --link url_to_pinretest_folder</p>
+<p>python download_pinterest_images.py --email your_email@gmail.com --passwd your_password --list list_of_url.txt</p>
+<p>The list of links must be a .txt file with each line in the file is a url to a pinterest folder.</p>
+<h2>Find duplicates:</h2>
+<p>python find_duplicates.py --folder path_to_the_images_folder</p>
+<p>The duplicated images will be in a folder called duplicates</p>
+<h2>Remove borders:</h2>
+<p>python remove_black_borders.py --folder path_to_the_images_folder</p>
+<p>python remove_white_borders.py --folder path_to_the_images_folder</p>
+<p>Move the images you want to remove the borders to a separete folder first and make a backup copy.</p>
+<h2>Image selector:</h2>
+<p>python image_selector.py --folder path_to_the_images_folder</p>
+
+
