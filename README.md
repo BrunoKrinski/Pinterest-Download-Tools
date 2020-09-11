@@ -1,8 +1,8 @@
 <h1>Pinterest Download Tools</h1>
-<p>See details on: <a target="_blank" href="https://brunokrinski.github.io/pinterest_download_tools/">https://brunokrinski.github.io/pinterest_download_tools/</p>
+<p>See details on: <a target="_blank" href="https://brunokrinski.github.io/pinterest-download-tools/">https://brunokrinski.github.io/pinterest-download-tools/</p>
 
 <h1>Download:</h1>
-<pre><code>git clone https://github.com/BrunoKrinski/pinterest_download_tools.git</code></pre>
+<pre><code>git clone https://github.com/BrunoKrinski/pinterest-download-tools.git</code></pre>
 
 <h1>Installation:</h1>
 
