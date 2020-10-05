@@ -1,0 +1,11 @@
+certifi==2020.6.20
+ImageHash==4.1.0
+numpy==1.19.2
+opencv-python==4.4.0.44
+Pillow==7.2.0
+PyWavelets==1.1.1
+scipy==1.5.2
+selenium==3.141.0
+six==1.15.0
+urllib3==1.25.10
+wget==3.2
