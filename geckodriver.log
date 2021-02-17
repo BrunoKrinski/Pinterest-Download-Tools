@@ -1,0 +1,1251 @@
+1607293344290	geckodriver	INFO	Listening on 127.0.0.1:61215
+1607293546677	geckodriver	INFO	Listening on 127.0.0.1:61322
+1607293549925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofile1jtigY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607293563433	Marionette	INFO	Listening on port 61331
+1607293564649	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1607296459562	Marionette	INFO	Stopped listening on port 61331
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607296531194	geckodriver	INFO	Listening on 127.0.0.1:63989
+1607296534423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileHumHvY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296543294	Marionette	INFO	Listening on port 63997
+1607296543577	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1607296712729	Marionette	INFO	Stopped listening on port 63997
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607296768103	geckodriver	INFO	Listening on 127.0.0.1:64147
+1607296806743	geckodriver	INFO	Listening on 127.0.0.1:64154
+1607296809841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofile0fF6UA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296815759	Marionette	INFO	Listening on port 64162
+1607296816196	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1607296836185	Marionette	INFO	Stopped listening on port 64162
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607720717194	geckodriver	INFO	Listening on 127.0.0.1:62062
+1607720720263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileSePXUG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607720724887	Marionette	INFO	Listening on port 62070
+1607720725303	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1607720751849	Marionette	INFO	Stopped listening on port 62070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1607720753348	geckodriver	INFO	Listening on 127.0.0.1:62121
+1607720756410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileSf5RPz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607720761943	Marionette	INFO	Listening on port 62129
+1607720762246	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1607722533372	Marionette	INFO	Stopped listening on port 62129
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+no\\AppData\\Local\\Temp\\rust_mozprofileVhJERX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 5152: TypeError: win is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine mercadolivre@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610817133591	geckodriver	INFO	Listening on 127.0.0.1:52766
+1610817136923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileeX4WPp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 3988, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1610817204934	Marionette	INFO	Listening on port 52776
+[Parent 3988, Gecko_IOThread] WARNING: file /builds/worker/c1610817243720	mozrunner::runner	INFO	Running command: "C:\\Pro1610817244430	Marionette	INFO	Stopped listening on port 52776
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+profileY8sB3P"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610817262127	Marionette	INFO	Listening on port 52894
+1610817262700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+Marionette threw an error: TypeError: this.curBrowser.messageManager is null
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:361:5
+send/<@chrome://marionette/content/proxy.js:190:12
+send@chrome://marionette/content/proxy.js:124:12
+get/<@chrome://marionette/content/proxy.js:37:29
+GeckoDriver.prototype.execute_@chrome://marionette/content/driver.js:1141:33
+
+1610817548456	Marionette	INFO	Stopped listening on port 52894
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610817933977	geckodriver	INFO	Listening on 127.0.0.1:53431
+1610817937020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofilehrqdw6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610817943673	Marionette	INFO	Listening on port 53441
+1610817944021	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+1610818248920	Marionette	INFO	Stopped listening on port 53441
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610824903615	geckodriver	INFO	Listening on 127.0.0.1:50706
+1610824906673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofilexo4Pxy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610824928785	Marionette	INFO	Listening on port 50714
+1610824929897	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1610824946717	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1610831919452	Marionette	INFO	Stopped listening on port 50714
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610832223529	geckodriver	INFO	Listening on 127.0.0.1:65252
+1610832226575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileQjlUkw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610832233332	Marionette	INFO	Listening on port 65260
+1610832233547	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1610839080968	Marionette	INFO	Stopped listening on port 65260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611003254515	geckodriver	INFO	Listening on 127.0.0.1:50740
+1611003257829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofilej3GkVj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611003301456	Marionette	INFO	Listening on port 50748
+1611003302437	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1611004989648	Marionette	INFO	Stopped listening on port 50748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611005018384	geckodriver	INFO	Listening on 127.0.0.1:52804
+1611005021469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileG6Q7ga"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611005030607	Marionette	INFO	Listening on port 52812
+1611005031077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+1611005269982	Marionette	INFO	Stopped listening on port 52812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611005292154	geckodriver	INFO	Listening on 127.0.0.1:52952
+1611005295202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileuoIcE7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611005302114	Marionette	INFO	Listening on port 52960
+1611005302164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+1611005585870	Marionette	INFO	Stopped listening on port 52960
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611005606881	geckodriver	INFO	Listening on 127.0.0.1:53226
+1611005609953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofileMHTTxo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611005616770	Marionette	INFO	Listening on port 53235
+1611005616924	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1611005796782	Marionette	INFO	Stopped listening on port 53235
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611005882243	geckodriver	INFO	Listening on 127.0.0.1:53441
+1611005885299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofilewiwijX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611005893166	Marionette	INFO	Listening on port 53449
+1611005893327	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 218: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+1611006187323	Marionette	INFO	Stopped listening on port 53449
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611007219983	geckodriver	INFO	Listening on 127.0.0.1:53936
+1611007223070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "C:\\Users\\bruno\\AppData\\Local\\Temp\\rust_mozprofilezpLrSB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611007228429	Marionette	INFO	Listening on port 53944
+1611007228911	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.pinimg.com/webapp/js/7-8059c89dc9373d530869.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+1611007759046	Marionette	INFO	Stopped listening on port 53944
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611008499798	geckodriver	INFO	Listening on 127.0.0.1:35029
+1611008499806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0XX1ox"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008580868	geckodriver	INFO	Listening on 127.0.0.1:36099
+1611008580934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCPSJpK"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008800331	geckodriver	INFO	Listening on 127.0.0.1:42847
+1611008800341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyTghE5"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008833749	geckodriver	INFO	Listening on 127.0.0.1:46315
+1611008833753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewkCpUU"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008870539	geckodriver	INFO	Listening on 127.0.0.1:33231
+1611008870547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCvnKud"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008903552	geckodriver	INFO	Listening on 127.0.0.1:58721
+1611008903557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4vwhM7"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008936761	geckodriver	INFO	Listening on 127.0.0.1:43063
+1611008936765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC8jBR3"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611008970072	geckodriver	INFO	Listening on 127.0.0.1:41673
+1611008970076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWnPri"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009003379	geckodriver	INFO	Listening on 127.0.0.1:40073
+1611009003384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEUJdYW"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009036590	geckodriver	INFO	Listening on 127.0.0.1:53299
+1611009036594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHsO3d4"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009069904	geckodriver	INFO	Listening on 127.0.0.1:40291
+1611009069908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOVIbNS"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009103217	geckodriver	INFO	Listening on 127.0.0.1:39481
+1611009103221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYLDwHF"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009136528	geckodriver	INFO	Listening on 127.0.0.1:51173
+1611009136534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUqsGNw"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009169742	geckodriver	INFO	Listening on 127.0.0.1:34265
+1611009169746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0dHn3c"
+Unable to init server: Broadway display type not supported: 172.28.160.1:0
+Error: cannot open display: 172.28.160.1:0
+1611009222836	geckodriver	INFO	Listening on 127.0.0.1:32807
+1611009222843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejNY7cJ"
+1611010441731	geckodriver	INFO	Listening on 127.0.0.1:50293
+1611010442781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefuA6Qc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611010452814	Marionette	INFO	Listening on port 45545
+1611010453130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7345 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7345 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 971 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 971 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Child 688, MediaDecoderStateMachine #1] WARNING: 7f7b6a274f20 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 688, MediaDecoderStateMachine #1] WARNING: Decoder=7f7b65c0e400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611011349208	geckodriver	INFO	Listening on 127.0.0.1:53377
+1611011349226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqUQQup"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611011359286	Marionette	INFO	Listening on port 33371
+1611011359417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1079 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1079 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4593 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4593 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611011853488	geckodriver	INFO	Listening on 127.0.0.1:54583
+1611011853514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileICaRui"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611011863679	Marionette	INFO	Listening on port 40031
+1611011863808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 305 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 305 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7790 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7790 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611012167345	geckodriver	INFO	Listening on 127.0.0.1:33889
+1611012167642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUqcPK0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1611012185740	Marionette	INFO	Listening on port 38747
+1611012185861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611012205000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1331 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1331 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4592 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4592 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc372e3ba0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2cfe5800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2cbc8900 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2cfe5800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2fc10040 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2ca5e400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2cbc8ac0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2ca5e400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2c276e40 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2ca5e400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2dda7d60 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2ca5e400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2ca5e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2e1e19e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc2989ac00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2e1e1820 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc1bff0000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc35dfe820 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc1bff0000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2999f580 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc1bff0000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 1853, MediaDecoderStateMachine #1] WARNING: 7fbc2999bc80 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 1853, MediaDecoderStateMachine #1] WARNING: Decoder=7fbc1bff0000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: , line 0: uncaught exception: Resource call aborted
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=7fbaa78fe000","state":{"remoteTypePrefix":"web"},"filename":"/build/firefox-3wnhso/firefox-84.0.2+build1/dom/ipc/ContentParent.cpp","lineNumber":3341,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:353","chrome://global/content/elements/browser-custom-element.js:construct:1012","chrome://global/content/elements/browser-custom-element.js:connectedCallback:291","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:381","chrome://browser/content/tabbrowser.js:init:42","chrome://browser/content/browser.js:onDOMContentLoaded:1793"]}] Barrier: profile-before-change
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2312: TypeError: subject.QueryInterface is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1611055871673	Marionette	INFO	Stopped listening on port 38747
+1611336123962	geckodriver	INFO	Listening on 127.0.0.1:60887
+1611336124080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezeyNwg"
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611336161152	Marionette	INFO	Listening on port 37027
+1611336161668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4616 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4616 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 5673 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 5673 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611338058108	geckodriver	INFO	Listening on 127.0.0.1:50959
+1611338058131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRi1IXG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611338071070	Marionette	INFO	Listening on port 36947
+1611338071212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 574 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 574 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7118 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7118 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611344532890	Marionette	INFO	Stopped listening on port 36947
+1611344543148	geckodriver	INFO	Listening on 127.0.0.1:41247
+1611344543161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQHrp7D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611344555380	Marionette	INFO	Listening on port 32943
+1611344555512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 2955 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 2955 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3177 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3177 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611344648842	geckodriver	INFO	Listening on 127.0.0.1:38599
+1611344648849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9RSxfr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611344658011	Marionette	INFO	Listening on port 37797
+1611344658111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4030 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4030 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 6943 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 6943 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+1611345351289	geckodriver	INFO	Listening on 127.0.0.1:51447
+1611345351314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYGLMq5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611345360341	Marionette	INFO	Listening on port 39971
+1611345360400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3242 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3242 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 5114 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 5114 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: https://s.pinimg.com/webapp/js/7-2b0387d4d097b1a34f6a.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.pinimg.com/webapp/js/7-2b0387d4d097b1a34f6a.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.pinimg.com/webapp/js/7-2b0387d4d097b1a34f6a.mjs, line 1: NS_ERROR_NOT_INITIALIZED: 
+1611345638000	Marionette	INFO	Stopped listening on port 37797
+1611345750250	geckodriver	INFO	Listening on 127.0.0.1:60419
+1611345750309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebhfpxY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611345763945	Marionette	INFO	Listening on port 35413
+1611345764122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 6972 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 6972 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3567 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3567 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611347269597	geckodriver	INFO	Listening on 127.0.0.1:33719
+1611347269666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO8EAT3"
+1611347292664	geckodriver	INFO	Listening on 127.0.0.1:45431
+1611347292673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3cpJ0R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611347303736	Marionette	INFO	Listening on port 35319
+1611347303891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4192 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4192 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3769 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 3769 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611348442017	geckodriver	INFO	Listening on 127.0.0.1:33021
+1611348442029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerkvKVy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611348452558	Marionette	INFO	Listening on port 34857
+1611348452710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4645 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4645 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1745 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1745 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+Exiting due to channel error.
+Exiting due to channel error.
+1611349021889	geckodriver	INFO	Listening on 127.0.0.1:44149
+1611349021898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDOn4T5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611349031777	Marionette	INFO	Listening on port 43475
+1611349031876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4473 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4473 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1232 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 1232 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1611349864208	geckodriver	INFO	Listening on 127.0.0.1:54135
+1611349864220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile51UkAb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611349873123	Marionette	INFO	Listening on port 45777
+1611349873199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 790 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 790 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 6589 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 6589 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1611350646804	geckodriver	INFO	Listening on 127.0.0.1:43493
+1611350646813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKiaYuC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611350656931	Marionette	INFO	Listening on port 34207
+1611350657043	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7625 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 7625 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4634 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://accounts.google.com/signin line 1 > eval line 4634 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system.
+* Exhausted GL driver options.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1611350723943	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bd197200 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b67a9800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bcaa8e40 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b87c2000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bb2fbd60 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b578d800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b8def9e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b661cc00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b67ed120 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b6610800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc936d60 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b4d17c00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bb7fdac0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b9583400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b8a783c0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b05c8400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bb7fdf20 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b5514000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bb7fd120 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b5711000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc7e52e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b5bd0c00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56a9be09e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b5bd0c00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b137c200 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b5bd0c00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b39e39e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b8ddf400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b5b3e120 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56a9b6a400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b67edac0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b3b70000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b98d22e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b66f8800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b13cd580 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b66f8800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56ab7b7d60 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b66f8800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56a9be0820 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b66f8800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b6efdac0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b661b000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc7e6ba0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b87ee000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b2491580 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b87ee000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56ab7b7f20 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b87ee000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56c7e19900 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56bca28800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bb7fd120 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b81ac800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56c47df2e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56a8aad800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc7e62e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b8de2000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b3b15f20 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56c04df400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc7e6040 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56c21adc00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc7e6d60 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b5511000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b8feaac0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b32ecc00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bbaecba0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f5690ca8000 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b8bac2e0 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b8187c00 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc936d60 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b92ee800 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56b63b0200 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56a8ab0400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bb2dbf20 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b3b66400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+[Child 6526, MediaDecoderStateMachine #1] WARNING: 7f56bc7e6120 OpenCubeb() failed to init cubeb: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/AudioStream.cpp:334
+[Child 6526, MediaDecoderStateMachine #1] WARNING: Decoder=7f56b4695400 [OnMediaSinkAudioError]: file /build/firefox-3wnhso/firefox-84.0.2+build1/dom/media/MediaDecoderStateMachine.cpp:3892
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: this.contentWindow is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

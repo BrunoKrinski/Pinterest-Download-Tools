@@ -4,9 +4,36 @@ import time
 import argparse
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver import DesiredCapabilities
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+#def execute_with_retry(method, max_attempts):
+#    e = None
+#    for i in range(0, max_attempts):
+#        try:
+#            return method()
+#        except Exception as e:
+#            print(e)
+#            time.sleep(1)
+#    if e is not None:
+#        raise e
+
+def download_images(urls):
+    urls = list(set(urls))
+    print('\nDownloading imagens...')
+    log_file.write('Downloading imagens...\n')
+    icont = 0
+    for url in urls:
+        try:
+            wget.download(url, out=images_folder)
+            icont += 1
+        except:
+            print('\nCound not download the image: ' + url)
+            images_err.write('Cound not download the image: ' + url + '\n')
+    #os.system("rm *\(1\)*")
+    os.system("rm images/*\(1\)*")
 
 def get_args():
     parser = argparse.ArgumentParser()
@@ -43,6 +70,10 @@ if __name__ == '__main__':
     options.add_argument("--start-maximized")
 
     driver = webdriver.Firefox(options=options)
+    #capabilities = DesiredCapabilities.FIREFOX
+    #capabilities["marionette"] = True
+    #firefox_bin = "/usr/bin/firefox"
+    #driver = execute_with_retry(lambda: webdriver.Firefox(firefox_binary=firefox_bin, capabilities=capabilities), 10)
     driver.set_page_load_timeout(60)
 
     print('Opening Google login page!')
@@ -78,7 +109,7 @@ if __name__ == '__main__':
         driver.get('https://br.pinterest.com/baianode/animais-fofos/')
         print('Pinterest successfully accessed!')
         log_file.write('Pinterest successfully accessed!\n')
-        time.sleep(30)
+        time.sleep(5)
     except TimeoutException as e:
         print('Could not access the pinterest!')
         log_file.write('Could not access the pinterest!\n')
@@ -93,7 +124,7 @@ if __name__ == '__main__':
     num_links = len(links)
     cont = 1
     for link in links:
-        print('Downloading ' + str(cont) + '/' + str(num_links) + '...')
+        print('\nDownloading ' + str(cont) + '/' + str(num_links) + '...')
         log_file.write('Downloading ' + str(cont) + '/' + \
                                         str(num_links) + '...\n')
         cont += 1
@@ -122,6 +153,7 @@ if __name__ == '__main__':
         scroll_times = 0
         print('Searching images... It can take a long time!')
         log_file.write('Searching images... It can take a long time!\n')
+        cont_images = 0
         while True:
             link_tags = driver.find_elements_by_tag_name('img')
             
@@ -139,33 +171,14 @@ if __name__ == '__main__':
             scroll_times += 1
 
             if scroll_times == 50:
-                urls = list(set(urls))
+                cont_images += len(urls)
+                download_images(urls)
+                urls = []
                 new_height = driver.execute_script("return document.body.scrollHeight")
-                if new_height == last_height:
+                if new_height == last_height or cont_images > 5000:
                     break
                 else:
                     last_height = new_height
                     scroll_times = 0
-        
-        print('Processing images...')
-        log_file.write('Processing images...\n')
-        urls = list(set(urls))
-        print('Total of images found: ' + str(len(urls)))
-        log_file.write('Total of images found: ' + str(len(urls)) + '\n')
-        print('Downloading imagens...')
-        log_file.write('Downloading imagens...\n')
-        icont = 0
-        for url in urls:
-            try:
-                wget.download(url, out=images_folder)
-                icont += 1
-            except:
-                print('\nCound not download the image: ' + url)
-                images_err.write('Cound not download the image: ' + url + '\n')
-        print('\nTotal of downloaded images: ' + str(icont))
-        log_file.write('Total of downloaded: ' + str(icont) + '\n')
-        print('==================================================')
-        log_file.write('==================================================\n')
-
     log_file.close()
     images_err.close()
